@@ -1,0 +1,14 @@
+Gun  
+gun_shoot1
+gun_shoot2
+
+Zombie
+zombie_rush1
+zombie_rush3
+
+Zombie Dead
+zombie_die2
+
+BGM
+bgm1
+bgm2
